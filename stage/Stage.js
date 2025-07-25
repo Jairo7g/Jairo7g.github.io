@@ -14,12 +14,12 @@ export default class Stage extends StageBase {
     super(...args);
 
     this.costumes = [
-      new Costume("backdrop1", "./Stage/costumes/backdrop1.svg", {
+      new Costume("backdrop1", "./stage/costume/backdrop1.svg", {
         x: 240,
         y: 180,
       }),
-      new Costume("Jungle", "./Stage/costumes/Jungle.png", { x: 480, y: 360 }),
-      new Costume("backdrop2", "./Stage/costumes/backdrop2.svg", {
+      new Costume("Jungle", "./stage/costume/Jungle.png", { x: 480, y: 360 }),
+      new Costume("backdrop2", "./stage/costume/backdrop2.svg", {
         x: 241.201904296875,
         y: 180.0718994140625,
       }),
