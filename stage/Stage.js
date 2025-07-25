@@ -18,7 +18,7 @@ export default class Stage extends StageBase {
         x: 240,
         y: 180,
       }),
-      new Costume("Jungle", "./stage/costume/Jungle.png", { x: 480, y: 360 }),
+      new Costume("Jungle", "./stage/costume/Jungle.png", { x: 960, y: 720 }),
       new Costume("backdrop2", "./stage/costume/backdrop2.svg", {
         x: 241.201904296875,
         y: 180.0718994140625,
