@@ -3,10 +3,10 @@ import {
   Sprite,
 } from "https://unpkg.com/leopard@^1/dist/index.esm.js";
 
-import Stage from "./Stage/Stage.js";
-import Sprite1 from "./Sprite1/Sprite1.js";
-import Balloon1 from "./Balloon1/Balloon1.js";
-import Sprite2 from "./Sprite2/Sprite2.js";
+import Stage from "./stage/Stage.js";
+import Sprite1 from "./Sprite 1/sprite1.js";
+import Balloon1 from "./Balloon/Balloon1.js";
+import Sprite2 from "./sprite2/Sprite2.js";
 
 const stage = new Stage({ costumeNumber: 2 });
 
